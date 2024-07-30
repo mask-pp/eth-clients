@@ -1,4 +1,4 @@
-module github.com/marioevz/eth-clients
+module github.com/mask-pp/eth-clients
 
 go 1.20
 

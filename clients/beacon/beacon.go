@@ -11,8 +11,8 @@ import (
 	"time"
 
 	ethcommon "github.com/ethereum/go-ethereum/common"
-	"github.com/marioevz/eth-clients/clients"
-	"github.com/marioevz/eth-clients/clients/utils"
+	"github.com/mask-pp/eth-clients/clients"
+	"github.com/mask-pp/eth-clients/clients/utils"
 
 	"github.com/protolambda/eth2api"
 	"github.com/protolambda/eth2api/client/beaconapi"

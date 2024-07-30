@@ -18,8 +18,8 @@ import (
 	"github.com/ethereum/go-ethereum/ethclient"
 	"github.com/ethereum/go-ethereum/rpc"
 	"github.com/golang-jwt/jwt/v4"
-	"github.com/marioevz/eth-clients/clients"
-	"github.com/marioevz/eth-clients/clients/utils"
+	"github.com/mask-pp/eth-clients/clients"
+	"github.com/mask-pp/eth-clients/clients/utils"
 	spoof "github.com/rauljordan/engine-proxy/proxy"
 )
 
